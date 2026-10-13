@@ -1,0 +1,12 @@
+venv/
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+mlflow.db
+.mlflow/
+mlruns/
+.env
+models/
+.idea/
+.vscode/
